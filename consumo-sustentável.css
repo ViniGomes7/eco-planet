@@ -1,9 +1,15 @@
+*{
+padding: 0px;
+margin: 0%;
+}
+
 .titintrodução{
 position: relative;
 color: darkgreen;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-margin: 10% 0% 0% 13%;
-font-size: 250%;
+margin: 10% 0% -10% 13%;
+font-size: 600%;
+width: 10%;
 }
 .pintrodução{
     position: relative;
@@ -11,22 +17,18 @@ font-size: 250%;
     width: 40%;
     font-size: 135%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgba(109, 109, 109, 0.479);
+    text-align: center;
+  
 }
-.carrinho{
-    height: 2%;
-    width: 5%;
-    justify-content: flex-start;
-    margin: 0% 0% -13% 6%;
 
-}
 
 .imgconsciente{
-    height: 10%;
-    width: 20%;
+    height: 50%;
+    width: 110%;
     left: auto;
     top: auto;
-    margin: -14% 0% 0% 60%;
+    margin: -14% 0% 0% -5%;
+    
     
     
 }
@@ -44,16 +46,36 @@ font-size: 250%;
     margin: 0%  0% -13% -80%;
 }
 .listpráticas{
-    margin: -2% 0% 0% 3%;
+    margin: -3% 0% 0% 5%;
+    font-family: monospace;
     font-size: 150%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+
+.titpráticas2{
+   position: relative;
+   color: darkgreen;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   margin: 0% 0% 0% 4%;
+   font-size: 250%;
+}
+
+.listpráticas2{
+margin: 1% 0% 0% 4%;
+font-family: monospace;
+font-size: 150%;
+}
+
+.iconecologic{
+    height: 4%;
+    width: 4%;
+    margin: 0% 0% -3% -1%;
+}
+
 
 html{
     margin-right: 5%;
     margin-left: 5%;
-    background-color: rgb(197, 243, 197);
-
 }
 
 
