@@ -1,0 +1,62 @@
+.titintrodução{
+position: relative;
+color: darkgreen;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 10% 0% 0% 13%;
+font-size: 250%;
+}
+.pintrodução{
+    position: relative;
+    margin: 1% 0% -2% 4%;
+    width: 40%;
+    font-size: 135%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(109, 109, 109, 0.479);
+}
+.carrinho{
+    height: 2%;
+    width: 5%;
+    justify-content: flex-start;
+    margin: 0% 0% -13% 6%;
+
+}
+
+.imgconsciente{
+    height: 10%;
+    width: 20%;
+    left: auto;
+    top: auto;
+    margin: -14% 0% 0% 60%;
+    
+    
+}
+.titpráticas{
+    position: relative;
+color: darkgreen;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 10% 0% 0% 5%;
+font-size: 250%;
+}
+
+.iconpráticas{
+    height: 2%;
+    width: 3%;
+    margin: 0%  0% -13% -80%;
+}
+.listpráticas{
+    margin: -2% 0% 0% 3%;
+    font-size: 150%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+html{
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: rgb(197, 243, 197);
+
+}
+
+
+
+
+  
